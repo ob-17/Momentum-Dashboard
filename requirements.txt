@@ -4,8 +4,5 @@ numpy
 xbbg
 datetime
 matplotlib
-sklearn
-warnings
 typing
-statsmodels
 scipy
