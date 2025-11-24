@@ -1,4 +1,5 @@
 Dash == 2.6.0
+gunicorn
 pandas
 numpy
 xbbg
@@ -6,3 +7,4 @@ datetime
 matplotlib
 typing
 scipy
+
