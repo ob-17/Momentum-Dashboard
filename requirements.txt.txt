@@ -1,0 +1,11 @@
+Dash == 2.6.0
+pandas
+numpy
+xbbg
+datetime
+matplotlib
+sklearn
+warnings
+typing
+statsmodels
+scipy
